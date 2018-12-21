@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-fastbuild/bin/proto/stu3/libdatatypes_cc_proto.a
+bazel-out/k8-fastbuild/bin/proto/stu3/_objs/datatypes_cc_proto/datatypes.pb.pic.o

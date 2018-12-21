@@ -1,0 +1,3 @@
+bazel-out/k8-fastbuild/bin/proto/stu3/_objs/uscore_cc_proto/uscore.pb.pic.o
+-lstdc++
+-lm

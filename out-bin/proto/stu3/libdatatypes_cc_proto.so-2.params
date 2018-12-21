@@ -1,0 +1,3 @@
+bazel-out/k8-fastbuild/bin/proto/stu3/_objs/datatypes_cc_proto/datatypes.pb.pic.o
+-lstdc++
+-lm

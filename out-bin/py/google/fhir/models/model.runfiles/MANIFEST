@@ -1,0 +1,6 @@
+com_google_fhir/py/__init__.py 
+com_google_fhir/py/google/__init__.py 
+com_google_fhir/py/google/fhir/__init__.py 
+com_google_fhir/py/google/fhir/models/__init__.py 
+com_google_fhir/py/google/fhir/models/model /home/rkharwar/.cache/bazel/_bazel_rkharwar/0ddaa3627472ad9d1367a008236ce2f5/execroot/com_google_fhir/bazel-out/k8-fastbuild/bin/py/google/fhir/models/model
+com_google_fhir/py/google/fhir/models/model.py /home/rkharwar/latest/20181221/fhir/py/google/fhir/models/model.py

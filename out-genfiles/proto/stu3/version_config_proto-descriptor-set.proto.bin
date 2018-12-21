@@ -1,0 +1,14 @@
+
+Ï
+proto/stu3/version_config.protogoogle.fhir.stu3.proto"ª
+ResourceConfig8
+default_timestamp_fields (	RdefaultTimestampFieldsg
+timestamp_override (28.google.fhir.stu3.proto.ResourceConfig.TimestampOverrideRtimestampOverridec
+TimestampOverride'
+timestamp_field (	RtimestampField%
+resource_field (	RresourceFieldJJJ"Þ
+VersionConfigb
+resource_config (29.google.fhir.stu3.proto.VersionConfig.ResourceConfigEntryRresourceConfigi
+ResourceConfigEntry
+key (	Rkey<
+value (2&.google.fhir.stu3.proto.ResourceConfigRvalue:8bproto3

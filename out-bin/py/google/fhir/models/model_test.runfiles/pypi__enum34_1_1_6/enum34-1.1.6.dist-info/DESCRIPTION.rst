@@ -1,0 +1,1 @@
+/home/rkharwar/.cache/bazel/_bazel_rkharwar/0ddaa3627472ad9d1367a008236ce2f5/external/pypi__enum34_1_1_6/enum34-1.1.6.dist-info/DESCRIPTION.rst

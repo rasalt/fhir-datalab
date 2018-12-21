@@ -1,0 +1,3 @@
+bazel-out/k8-fastbuild/bin/proto/stu3/_objs/annotations_cc_proto/annotations.pb.pic.o
+-lstdc++
+-lm

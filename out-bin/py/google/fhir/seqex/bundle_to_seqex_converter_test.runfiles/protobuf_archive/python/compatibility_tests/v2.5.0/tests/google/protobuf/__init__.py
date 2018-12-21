@@ -1,0 +1,1 @@
+/home/rkharwar/.cache/bazel/_bazel_rkharwar/0ddaa3627472ad9d1367a008236ce2f5/external/protobuf_archive/python/compatibility_tests/v2.5.0/tests/google/protobuf/__init__.py

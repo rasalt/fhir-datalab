@@ -1,0 +1,1379 @@
+
+≤∑
+proto/stu3/extensions.protogoogle.fhir.stu3.protoproto/stu3/annotations.protoproto/stu3/codes.protoproto/stu3/datatypes.proto"º
+DataElementAdministrativeStatus.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/11179-de-administrative-status"ö
+DataElementChangeDescription.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/11179-de-change-description"∏
+"DataElementClassificationOrContext.
+id (2.google.fhir.stu3.proto.StringRidR
+
+value_code (23.google.fhir.stu3.proto.ClassificationOrContextCodeR	valueCode:ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óJhttp://hl7.org/fhir/StructureDefinition/11179-de-classification-or-context"ó
+DataElementContactAddress.
+id (2.google.fhir.stu3.proto.StringRidD
+value_address (2.google.fhir.stu3.proto.AddressRvalueAddress:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/11179-de-contact-address"Â
+DataElementDocumentReference.
+id (2.google.fhir.stu3.proto.StringRidã
+value_reference (2!.google.fhir.stu3.proto.ReferenceB?Úˇ¸¬9http://hl7.org/fhir/StructureDefinition/DocumentReferenceRvalueReference:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/11179-de-document-reference"ñ
+DataElementEffectivePeriod.
+id (2.google.fhir.stu3.proto.StringRidA
+value_period (2.google.fhir.stu3.proto.PeriodRvaluePeriod:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/11179-de-effective-period"•
+DataElementIsDataElementConcept.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/11179-de-is-data-element-concept"‘
+DataElementRegistryOrg.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/OrganizationRvalueReference:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/11179-de-registry-org"÷
+DataElementSubmitterOrg.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/OrganizationRvalueReference:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/11179-de-submitter-org"è
+ElementDefinitionObjectClass.
+id (2.google.fhir.stu3.proto.StringRidA
+value_coding (2.google.fhir.stu3.proto.CodingRvalueCoding:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/11179-objectClass"†
+$ElementDefinitionObjectClassProperty.
+id (2.google.fhir.stu3.proto.StringRidA
+value_coding (2.google.fhir.stu3.proto.CodingRvalueCoding:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/11179-objectClassProperty"ﬂ
+PermittedValueConceptmap.
+id (2.google.fhir.stu3.proto.StringRidÑ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB8Úˇ¸¬2http://hl7.org/fhir/StructureDefinition/ConceptMapRvalueReference:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/11179-permitted-value-conceptmap"Ÿ
+PermittedValueValueset.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/ValueSetRvalueReference:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/11179-permitted-value-valueset"Ø
+AllergyIntoleranceCertainty.
+id (2.google.fhir.stu3.proto.StringRidV
+
+value_code (27.google.fhir.stu3.proto.AllergyIntoleranceCertaintyCodeR	valueCode:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/allergyintolerance-certainty"û
+AllergyIntoleranceDuration.
+id (2.google.fhir.stu3.proto.StringRidG
+value_duration (2 .google.fhir.stu3.proto.DurationRvalueDuration:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/allergyintolerance-duration"æ
+AllergyIntoleranceReasonRefuted.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/allergyintolerance-reasonRefuted"ô
+AllergyIntoleranceResolutionAge.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_age (2.google.fhir.stu3.proto.AgeRvalueAge:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/allergyintolerance-resolutionAge"’
+'AllergyIntoleranceSubstanceExposureRisk.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionM
+	substance (2'.google.fhir.stu3.proto.CodeableConceptB–áÎR	substanceT
+exposure_risk (2'.google.fhir.stu3.proto.CodeableConceptB–áÎRexposureRisk:ì¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óPhttp://hl7.org/fhir/StructureDefinition/allergyintolerance-substanceExposureRisk"ï
+AuditEventAccession.
+id (2.google.fhir.stu3.proto.StringRidM
+value_identifier (2".google.fhir.stu3.proto.IdentifierRvalueIdentifier:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/auditevent-Accession"è
+AuditEventAnonymized.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/auditevent-Anonymized"å
+AuditEventEncrypted.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/auditevent-Encrypted"ì
+AuditEventInstance.
+id (2.google.fhir.stu3.proto.StringRidM
+value_identifier (2".google.fhir.stu3.proto.IdentifierRvalueIdentifier:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/auditevent-Instance"ã
+AuditEventMPPS.
+id (2.google.fhir.stu3.proto.StringRidM
+value_identifier (2".google.fhir.stu3.proto.IdentifierRvalueIdentifier:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/auditevent-MPPS"ù
+AuditEventNumberOfInstances.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/auditevent-NumberOfInstances"¿
+(AuditEventParticipantObjectContainsStudy.
+id (2.google.fhir.stu3.proto.StringRidM
+value_identifier (2".google.fhir.stu3.proto.IdentifierRvalueIdentifier:î¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óQhttp://hl7.org/fhir/StructureDefinition/auditevent-ParticipantObjectContainsStudy"Õ
+AuditEventSOPClass.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/ImagingStudyRvalueReference:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/auditevent-SOPClass"Ä
+PatientBirthPlace.
+id (2.google.fhir.stu3.proto.StringRidD
+value_address (2.google.fhir.stu3.proto.AddressRvalueAddress:u¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó2http://hl7.org/fhir/StructureDefinition/birthPlace"∆
+BodySiteInstance.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/BodySiteRvalueReference:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/body-site-instance"∞
+CapabilityStatementExpectation.
+id (2.google.fhir.stu3.proto.StringRidQ
+
+value_code (22.google.fhir.stu3.proto.ConformanceExpectationCodeR	valueCode:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/capabilitystatement-expectation"°
+CapabilityStatementProhibited.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/capabilitystatement-prohibited"æ
+-CapabilityStatementSearchParameterCombination.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionB
+required (2.google.fhir.stu3.proto.StringB–áÎRrequired:
+optional (2.google.fhir.stu3.proto.StringRoptional:õ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óXhttp://hl7.org/fhir/StructureDefinition/capabilitystatement-search-parameter-combination"†
+"CapabilityStatementSupportedSystem.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:è¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óLhttp://hl7.org/fhir/StructureDefinition/capabilitystatement-supported-system"ì
+CapabilityStatementWebsocket.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/capabilitystatement-websocket"è
+CarePlanActivityTitle.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/careplan-activity-title"É
+CodeSystemAuthor.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/codesystem-author"å
+CodeSystemComment.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension@
+content (2.google.fhir.stu3.proto.StringB–áÎRcontentE
+	timestamp (2.google.fhir.stu3.proto.InstantB–áÎR	timestamp:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/codesystem-comment"á
+CodeSystemComments.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/codesystem-comments"ì
+CodeSystemConceptOrder.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/codesystem-conceptOrder"è
+CodeSystemDeprecated.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/codesystem-deprecated"å
+CodeSystemEffectiveDate.
+id (2.google.fhir.stu3.proto.StringRid;
+
+value_date (2.google.fhir.stu3.proto.DateR	valueDate:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/codesystem-effectiveDate"é
+CodeSystemExpirationDate.
+id (2.google.fhir.stu3.proto.StringRid;
+
+value_date (2.google.fhir.stu3.proto.DateR	valueDate:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/codesystem-expirationDate"√
+CodeSystemHistory.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension2
+name (2.google.fhir.stu3.proto.StringRnameN
+revision (22.google.fhir.stu3.proto.CodeSystemHistory.RevisionRrevisionπ
+Revision.
+id (2.google.fhir.stu3.proto.StringRid<
+date (2 .google.fhir.stu3.proto.DateTimeB–áÎRdateI
+id_slice (2.google.fhir.stu3.proto.StringB–áÎ™¸èìidRidSlice>
+author (2.google.fhir.stu3.proto.StringB–áÎRauthor4
+notes (2.google.fhir.stu3.proto.StringRnotes:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/codesystem-history"Ö
+CodeSystemKeyWord.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/codesystem-keyWord"Å
+CodeSystemLabel.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/codesystem-label"¡
+CodeSystemMap.
+id (2.google.fhir.stu3.proto.StringRidÑ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB8Úˇ¸¬2http://hl7.org/fhir/StructureDefinition/ConceptMapRvalueReference:y¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó6http://hl7.org/fhir/StructureDefinition/codesystem-map"ì
+CodeSystemOrdinalValue.
+id (2.google.fhir.stu3.proto.StringRidD
+value_decimal (2.google.fhir.stu3.proto.DecimalRvalueDecimal:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/codesystem-ordinalValue"Ç
+CodeSystemOtherName.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension:
+name (2.google.fhir.stu3.proto.StringB–áÎRname=
+	preferred (2.google.fhir.stu3.proto.BooleanR	preferred:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/codesystem-otherName"Ä
+CodeSystemReference.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/codesystem-reference"å
+CodeSystemReplacedby.
+id (2.google.fhir.stu3.proto.StringRidA
+value_coding (2.google.fhir.stu3.proto.CodingRvalueCoding:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/codesystem-replacedby"ç
+CodeSystemSourceReference.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/codesystem-sourceReference"Å
+CodeSystemSubsumes.
+id (2.google.fhir.stu3.proto.StringRid;
+
+value_code (2.google.fhir.stu3.proto.CodeR	valueCode:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/codesystem-subsumes"ê
+CodeSystemTrustedExpansion.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/codesystem-trusted-expansion"ı
+CodeSystemUsage.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension:
+user (2.google.fhir.stu3.proto.StringB–áÎRuser8
+use (2.google.fhir.stu3.proto.StringB–áÎRuse:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/codesystem-usage"ã
+CodeSystemWarning.
+id (2.google.fhir.stu3.proto.StringRidG
+value_markdown (2 .google.fhir.stu3.proto.MarkdownRvalueMarkdown:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/codesystem-warning"î
+CodeSystemWorkflowStatus.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/codesystem-workflowStatus"ı
+CodingSctdescid.
+id (2.google.fhir.stu3.proto.StringRid5
+value_id (2.google.fhir.stu3.proto.IdRvalueId:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/coding-sctdescid"ì
+CommunicationMedia.
+id (2.google.fhir.stu3.proto.StringRidM
+value_attachment (2".google.fhir.stu3.proto.AttachmentRvalueAttachment:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/communication-media"æ
+CommunicationReasonNotPerformed.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/communication-reasonNotPerformed"î
+CommunicationRequestDefinition.
+id (2.google.fhir.stu3.proto.StringRid`
+value (2<.google.fhir.stu3.proto.CommunicationRequestDefinition.ValueB¯·„…–áÎRvalue“
+Valueø
+	reference (2!.google.fhir.stu3.proto.ReferenceB|Úˇ¸¬6http://hl7.org/fhir/StructureDefinition/PlanDefinitionÚˇ¸¬:http://hl7.org/fhir/StructureDefinition/ActivityDefinitionH R	referenceB
+value:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/communicationrequest-definition"Û
+CommunicationRequestOrderedBy.
+id (2.google.fhir.stu3.proto.StringRid_
+value (2;.google.fhir.stu3.proto.CommunicationRequestOrderedBy.ValueB¯·„…–áÎRvalue¥
+Value°
+	reference (2!.google.fhir.stu3.proto.ReferenceB›Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/OrganizationÚˇ¸¬.http://hl7.org/fhir/StructureDefinition/DeviceÚˇ¸¬/http://hl7.org/fhir/StructureDefinition/PatientH R	referenceB
+value:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/communicationrequest-orderedBy"ƒ
+"CommunicationRequestReasonRejected.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:é¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óKhttp://hl7.org/fhir/StructureDefinition/communicationrequest-reasonRejected"Ó
+#CommunicationRequestRelevantHistory.
+id (2.google.fhir.stu3.proto.StringRidÑ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB8Úˇ¸¬2http://hl7.org/fhir/StructureDefinition/ProvenanceRvalueReference:è¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óLhttp://hl7.org/fhir/StructureDefinition/communicationrequest-relevantHistory"Í
+"CommunicationRequestSupportingInfo.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/ResourceRvalueReference:é¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óKhttp://hl7.org/fhir/StructureDefinition/communicationrequest-supportingInfo"™
+CompositionOtherConfidentiality.
+id (2.google.fhir.stu3.proto.StringRidA
+value_coding (2.google.fhir.stu3.proto.CodingRvalueCoding:ì¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óPhttp://hl7.org/fhir/StructureDefinition/composition-clindoc-otherConfidentiality"í
+ConceptMapBidirectional.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/concept-bidirectional"ü
+ConditionBasedOn.
+id (2.google.fhir.stu3.proto.StringRidR
+value (2..google.fhir.stu3.proto.ConditionBasedOn.ValueB¯·„…–áÎRvalueà
+Valueı
+	reference (2!.google.fhir.stu3.proto.ReferenceB±Úˇ¸¬7http://hl7.org/fhir/StructureDefinition/ReferralRequestÚˇ¸¬8http://hl7.org/fhir/StructureDefinition/ProcedureRequestÚˇ¸¬0http://hl7.org/fhir/StructureDefinition/CarePlanH R	referenceB
+value:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/condition-basedOn"®
+ConditionCriticality.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/condition-criticality"—
+ConditionDefinition.
+id (2.google.fhir.stu3.proto.StringRidà
+value_reference (2!.google.fhir.stu3.proto.ReferenceB<Úˇ¸¬6http://hl7.org/fhir/StructureDefinition/PlanDefinitionRvalueReference:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/condition-definition"Ì
+ConditionDueTo.
+id (2.google.fhir.stu3.proto.StringRidP
+value (2,.google.fhir.stu3.proto.ConditionDueTo.ValueB¯·„…–áÎRvalue‹
+ValueT
+codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptH RcodeableConceptÛ
+	reference (2!.google.fhir.stu3.proto.ReferenceBØÚˇ¸¬1http://hl7.org/fhir/StructureDefinition/ConditionÚˇ¸¬1http://hl7.org/fhir/StructureDefinition/ProcedureÚˇ¸¬@http://hl7.org/fhir/StructureDefinition/MedicationAdministrationÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/ImmunizationÚˇ¸¬;http://hl7.org/fhir/StructureDefinition/MedicationStatementH R	referenceB
+value:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/condition-dueTo"í
+ConditionOccurredFollowing.
+id (2.google.fhir.stu3.proto.StringRid\
+value (28.google.fhir.stu3.proto.ConditionOccurredFollowing.ValueB¯·„…–áÎRvalue‹
+ValueT
+codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptH RcodeableConceptÛ
+	reference (2!.google.fhir.stu3.proto.ReferenceBØÚˇ¸¬1http://hl7.org/fhir/StructureDefinition/ConditionÚˇ¸¬1http://hl7.org/fhir/StructureDefinition/ProcedureÚˇ¸¬@http://hl7.org/fhir/StructureDefinition/MedicationAdministrationÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/ImmunizationÚˇ¸¬;http://hl7.org/fhir/StructureDefinition/MedicationStatementH R	referenceB
+value:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/condition-occurredFollowing"ü
+ConditionOutcome.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/condition-outcome"í
+ConditionPartOf.
+id (2.google.fhir.stu3.proto.StringRidQ
+value (2-.google.fhir.stu3.proto.ConditionPartOf.ValueB¯·„…–áÎRvalue˛
+ValueÎ
+	reference (2!.google.fhir.stu3.proto.ReferenceBßÚˇ¸¬3http://hl7.org/fhir/StructureDefinition/ObservationÚˇ¸¬1http://hl7.org/fhir/StructureDefinition/ProcedureÚˇ¸¬1http://hl7.org/fhir/StructureDefinition/ConditionH R	referenceB
+value:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/condition-partOf"»
+ConditionRuledOut.
+id (2.google.fhir.stu3.proto.StringRidÉ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB7Úˇ¸¬1http://hl7.org/fhir/StructureDefinition/ConditionRvalueReference:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/condition-ruledOut"‘
+ConditionTargetBodySite.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/BodySiteRvalueReference:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/condition-targetBodySite"√
+ConsentLocation.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/LocationRvalueReference:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/consent-location"ë
+ConsentNotificationEndpoint.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/consent-NotificationEndpoint"Ã
+ConsentWitness.
+id (2.google.fhir.stu3.proto.StringRidP
+value (2,.google.fhir.stu3.proto.ConsentWitness.ValueB¯·„…–áÎRvalueª
+Value®
+	reference (2!.google.fhir.stu3.proto.ReferenceB‰Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/OrganizationÚˇ¸¬/http://hl7.org/fhir/StructureDefinition/PatientÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerÚˇ¸¬5http://hl7.org/fhir/StructureDefinition/RelatedPersonH R	referenceB
+value:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/consent-Witness"Ö
+CalculatedValue.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/cqif-calculatedValue"Å
+AttachmentCitation.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:x¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó5http://hl7.org/fhir/StructureDefinition/cqif-citation"˝
+CqifCondition.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:y¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó6http://hl7.org/fhir/StructureDefinition/cqif-condition"Å
+CqlExpression.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/cqif-cqlExpression"å
+FhirPathExpression.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/cqif-fhirPathExpression"≠
+BasicEncounterClass.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/cqif-guidanceencounterClass"´
+BasicEncounterType.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/cqif-guidanceencounterType"Á
+BasicInitiatingOrganization.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/OrganizationRvalueReference:é¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óKhttp://hl7.org/fhir/StructureDefinition/cqif-guidanceinitiatingOrganization"„
+BasicInitiatingPerson.
+id (2.google.fhir.stu3.proto.StringRidW
+value (23.google.fhir.stu3.proto.BasicInitiatingPerson.ValueB¯·„…–áÎRvalueµ
+Value¢
+	reference (2!.google.fhir.stu3.proto.ReferenceBﬁÚˇ¸¬.http://hl7.org/fhir/StructureDefinition/PersonÚˇ¸¬/http://hl7.org/fhir/StructureDefinition/PatientÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerÚˇ¸¬5http://hl7.org/fhir/StructureDefinition/RelatedPersonH R	referenceB
+value:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/cqif-guidanceinitiatingPerson"Â
+BasicReceivingOrganization.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/OrganizationRvalueReference:ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óJhttp://hl7.org/fhir/StructureDefinition/cqif-guidancereceivingOrganization"‡
+BasicReceivingPerson.
+id (2.google.fhir.stu3.proto.StringRidV
+value (22.google.fhir.stu3.proto.BasicReceivingPerson.ValueB¯·„…–áÎRvalueµ
+Value¢
+	reference (2!.google.fhir.stu3.proto.ReferenceBﬁÚˇ¸¬.http://hl7.org/fhir/StructureDefinition/PersonÚˇ¸¬/http://hl7.org/fhir/StructureDefinition/PatientÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerÚˇ¸¬5http://hl7.org/fhir/StructureDefinition/RelatedPersonH R	referenceB
+value:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/cqif-guidancereceivingPerson"≥
+BasicRecipientLanguage.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/cqif-guidancerecipientLanguage"´
+BasicRecipientType.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/cqif-guidancerecipientType"µ
+BasicSystemUserLanguage.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/cqif-guidancesystemUserLanguage"ª
+BasicSystemUserTaskContext.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óJhttp://hl7.org/fhir/StructureDefinition/cqif-guidancesystemUserTaskContext"≠
+BasicSystemUserType.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/cqif-guidancesystemUserType"ˇ
+InitialValue.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/cqif-initialValue"∫
+CqifLibrary.
+id (2.google.fhir.stu3.proto.StringRidÅ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB5Úˇ¸¬/http://hl7.org/fhir/StructureDefinition/LibraryRvalueReference:w¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó4http://hl7.org/fhir/StructureDefinition/cqif-library"‡
+MeasureInfo.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension;
+measure (2!.google.fhir.stu3.proto.ReferenceRmeasureM
+group_identifier (2".google.fhir.stu3.proto.IdentifierRgroupIdentifierW
+population_identifier (2".google.fhir.stu3.proto.IdentifierRpopulationIdentifier:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/cqif-measureInfo"§
+QuestionnaireOptionCode.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/cqif-optionCode"∞
+AttachmentQualityOfEvidence.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/cqif-qualityOfEvidence"Ä
+CodingSourceValueSet.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/cqif-sourceValueSet"æ
+"AttachmentStrengthOfRecommendation.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/cqif-strengthOfRecommendation"é
+DataAbsentReason.
+id (2.google.fhir.stu3.proto.StringRidK
+
+value_code (2,.google.fhir.stu3.proto.DataAbsentReasonCodeR	valueCode:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/data-absent-reason"ë
+!StructureDefinitionDatadictionary.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:y¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó6http://hl7.org/fhir/StructureDefinition/datadictionary"Å
+	DeviceDin.
+id (2.google.fhir.stu3.proto.StringRidM
+value_identifier (2".google.fhir.stu3.proto.IdentifierRvalueIdentifier:u¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó2http://hl7.org/fhir/StructureDefinition/device-din"í
+DeviceImplantStatus.
+id (2.google.fhir.stu3.proto.StringRidH
+
+value_code (2).google.fhir.stu3.proto.ImplantStatusCodeR	valueCode:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/device-implant-status"§
+DeviceRequestPatientInstruction.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension@
+lang (2$.google.fhir.stu3.proto.LanguageCodeB–áÎRlang@
+content (2.google.fhir.stu3.proto.StringB–áÎRcontent:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/devicerequest-patientInstruction"∂
+DeviceRequestReasonRejected.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/devicerequest-reasonRejected"‚
+DiagnosticReportAddendumOf.
+id (2.google.fhir.stu3.proto.StringRidä
+value_reference (2!.google.fhir.stu3.proto.ReferenceB>Úˇ¸¬8http://hl7.org/fhir/StructureDefinition/DiagnosticReportRvalueReference:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/diagnosticReport-addendumOf"‹
+DiagnosticReportExtends.
+id (2.google.fhir.stu3.proto.StringRidä
+value_reference (2!.google.fhir.stu3.proto.ReferenceB>Úˇ¸¬8http://hl7.org/fhir/StructureDefinition/DiagnosticReportRvalueReference:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/diagnosticReport-extends"∞
+DiagnosticReportAnalysis.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionC
+type (2'.google.fhir.stu3.proto.CodeableConceptB–áÎRtypeO
+interpretation (2'.google.fhir.stu3.proto.CodeableConceptRinterpretation:å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óIhttp://hl7.org/fhir/StructureDefinition/DiagnosticReport-geneticsAnalysis"Ò
+!DiagnosticReportAssessedCondition.
+id (2.google.fhir.stu3.proto.StringRidÉ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB7Úˇ¸¬1http://hl7.org/fhir/StructureDefinition/ConditionRvalueReference:ï¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óRhttp://hl7.org/fhir/StructureDefinition/DiagnosticReport-geneticsAssessedCondition"ˇ
+#DiagnosticReportFamilyMemberHistory.
+id (2.google.fhir.stu3.proto.StringRidç
+value_reference (2!.google.fhir.stu3.proto.ReferenceBAÚˇ¸¬;http://hl7.org/fhir/StructureDefinition/FamilyMemberHistoryRvalueReference:ó¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óThttp://hl7.org/fhir/StructureDefinition/DiagnosticReport-geneticsFamilyMemberHistory"Ë
+!DiagnosticReportLocationPerformed.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/LocationRvalueReference:ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óJhttp://hl7.org/fhir/StructureDefinition/diagnosticReport-locationPerformed"ﬁ
+DiagnosticReportReplaces.
+id (2.google.fhir.stu3.proto.StringRidä
+value_reference (2!.google.fhir.stu3.proto.ReferenceB>Úˇ¸¬8http://hl7.org/fhir/StructureDefinition/DiagnosticReportRvalueReference:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/diagnosticReport-replaces"‡
+DiagnosticReportSummaryOf.
+id (2.google.fhir.stu3.proto.StringRidä
+value_reference (2!.google.fhir.stu3.proto.ReferenceB>Úˇ¸¬8http://hl7.org/fhir/StructureDefinition/DiagnosticReportRvalueReference:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/diagnosticReport-summaryOf"†
+ElementDefinitionAllowedUnits.
+id (2.google.fhir.stu3.proto.StringRid_
+value (2;.google.fhir.stu3.proto.ElementDefinitionAllowedUnits.ValueB¯·„…–áÎRvalue·
+ValueT
+codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptH RcodeableConcepty
+	reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/ValueSetH R	referenceB
+value:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/elementdefinition-allowedUnits"‚
+ElementDefinitionBestpractice.
+id (2.google.fhir.stu3.proto.StringRid_
+value (2;.google.fhir.stu3.proto.ElementDefinitionBestpractice.ValueB¯·„…–áÎRvalue£
+Value;
+boolean (2.google.fhir.stu3.proto.BooleanH RbooleanT
+codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptH RcodeableConceptB
+value:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/elementdefinition-bestpractice"ú
+ElementDefinitionBindingName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/elementdefinition-bindingName"´
+ElementDefinitionEquivalence.
+id (2.google.fhir.stu3.proto.StringRidP
+
+value_code (21.google.fhir.stu3.proto.ConceptMapEquivalenceCodeR	valueCode:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/elementdefinition-equivalence"¶
+ElementDefinitionIdentifier.
+id (2.google.fhir.stu3.proto.StringRidM
+value_identifier (2".google.fhir.stu3.proto.IdentifierRvalueIdentifier:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/elementdefinition-identifier"®
+,ElementDefinitionInheritedExtensibleValueSet.
+id (2.google.fhir.stu3.proto.StringRidn
+value (2J.google.fhir.stu3.proto.ElementDefinitionInheritedExtensibleValueSet.ValueB¯·„…–áÎRvalueº
+Value/
+uri (2.google.fhir.stu3.proto.UriH Ruriy
+	reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/ValueSetH R	referenceB
+value:ò¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óUhttp://hl7.org/fhir/StructureDefinition/elementdefinition-inheritedExtensibleValueSet"ß
+ ElementDefinitionIsCommonBinding.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óIhttp://hl7.org/fhir/StructureDefinition/elementdefinition-isCommonBinding"¯
+ElementDefinitionMaxValueSet.
+id (2.google.fhir.stu3.proto.StringRid^
+value (2:.google.fhir.stu3.proto.ElementDefinitionMaxValueSet.ValueB¯·„…–áÎRvalueº
+Value/
+uri (2.google.fhir.stu3.proto.UriH Ruriy
+	reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/ValueSetH R	referenceB
+value:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet"¯
+ElementDefinitionMinValueSet.
+id (2.google.fhir.stu3.proto.StringRid^
+value (2:.google.fhir.stu3.proto.ElementDefinitionMinValueSet.ValueB¯·„…–áÎRvalueº
+Value/
+uri (2.google.fhir.stu3.proto.UriH Ruriy
+	reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/ValueSetH R	referenceB
+value:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/elementdefinition-minValueSet"˛
+	Namespace.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/elementdefinition-namespace"ñ
+ElementDefinitionQuestion.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/elementdefinition-question"ñ
+ElementDefinitionSelector.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/elementdefinition-selector"°
+ElementDefinitionTranslatable.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/elementdefinition-translatable"ﬂ
+EncounterAssociatedEncounter.
+id (2.google.fhir.stu3.proto.StringRidÉ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB7Úˇ¸¬1http://hl7.org/fhir/StructureDefinition/EncounterRvalueReference:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/encounter-associatedEncounter"ê
+EncounterModeOfArrival.
+id (2.google.fhir.stu3.proto.StringRidA
+value_coding (2.google.fhir.stu3.proto.CodingRvalueCoding:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/encounter-modeOfArrival"¶
+EncounterPrimaryDiagnosis.
+id (2.google.fhir.stu3.proto.StringRidQ
+value_positive_int (2#.google.fhir.stu3.proto.PositiveIntRvaluePositiveInt:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/encounter-primaryDiagnosis"∞
+EncounterReasonCancelled.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/encounter-reasonCancelled"¯
+EntryFormat.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:v¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó3http://hl7.org/fhir/StructureDefinition/entryFormat"‹
+
+Definition.
+id (2.google.fhir.stu3.proto.StringRidL
+value (2(.google.fhir.stu3.proto.Definition.ValueB¯·„…–áÎRvalue“
+Valueø
+	reference (2!.google.fhir.stu3.proto.ReferenceB|Úˇ¸¬:http://hl7.org/fhir/StructureDefinition/ActivityDefinitionÚˇ¸¬6http://hl7.org/fhir/StructureDefinition/PlanDefinitionH R	referenceB
+value:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/event-definition"â
+DiagnosticReportNotDone.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:x¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó5http://hl7.org/fhir/StructureDefinition/event-notDone"¬
+
+OnBehalfOf.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/OrganizationRvalueReference:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/event-OnBehalfOf"∂
+PartOf.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/ResourceRvalueReference:w¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó4http://hl7.org/fhir/StructureDefinition/event-partOf"©
+ObservationPerformerRole.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/event-performerRole"ò
+
+ReasonCode.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/event-reasonCode"‡
+ReasonReference.
+id (2.google.fhir.stu3.proto.StringRidQ
+value (2-.google.fhir.stu3.proto.ReasonReference.ValueB¯·„…–áÎRvalue∆
+Value≥
+	reference (2!.google.fhir.stu3.proto.ReferenceBpÚˇ¸¬1http://hl7.org/fhir/StructureDefinition/ConditionÚˇ¸¬3http://hl7.org/fhir/StructureDefinition/ObservationH R	referenceB
+value:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/event-reasonReference"
+FamilyMemberHistoryObservation.
+id (2.google.fhir.stu3.proto.StringRidÖ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB9Úˇ¸¬3http://hl7.org/fhir/StructureDefinition/ObservationRvalueReference:ï¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óRhttp://hl7.org/fhir/StructureDefinition/family-member-history-genetics-observation"≠
+FamilyMemberHistoryParent.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionC
+type (2'.google.fhir.stu3.proto.CodeableConceptB–áÎRtypeG
+	reference (2!.google.fhir.stu3.proto.ReferenceB–áÎR	reference:ê¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óMhttp://hl7.org/fhir/StructureDefinition/family-member-history-genetics-parent"Ø
+FamilyMemberHistorySibling.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionC
+type (2'.google.fhir.stu3.proto.CodeableConceptB–áÎRtypeG
+	reference (2!.google.fhir.stu3.proto.ReferenceB–áÎR	reference:ë¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óNhttp://hl7.org/fhir/StructureDefinition/family-member-history-genetics-sibling"Ó
+FamilyMemberHistoryAbatement.
+id (2.google.fhir.stu3.proto.StringRid^
+value (2:.google.fhir.stu3.proto.FamilyMemberHistoryAbatement.ValueB¯·„…–áÎRvalue≤
+Value2
+date (2.google.fhir.stu3.proto.DateH Rdate/
+age (2.google.fhir.stu3.proto.AgeH Rage;
+boolean (2.google.fhir.stu3.proto.BooleanH RbooleanB
+value:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/familymemberhistory-abatement"Ê
+ FamilyMemberHistoryPatientRecord.
+id (2.google.fhir.stu3.proto.StringRidÅ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB5Úˇ¸¬/http://hl7.org/fhir/StructureDefinition/PatientRvalueReference:ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óJhttp://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record"∂
+FamilyMemberHistorySeverity.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/familymemberhistory-severity"Æ
+FamilyMemberHistoryType.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/familymemberhistory-type"π
+
+FlagDetail.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/ResourceRvalueReference:v¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó3http://hl7.org/fhir/StructureDefinition/flag-detail"ó
+FlagPriority.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:x¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó5http://hl7.org/fhir/StructureDefinition/flag-priority"â
+AddressGeolocation.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionC
+latitude (2.google.fhir.stu3.proto.DecimalB–áÎRlatitudeE
+	longitude (2.google.fhir.stu3.proto.DecimalB–áÎR	longitude:v¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó3http://hl7.org/fhir/StructureDefinition/geolocation"◊
+GoalAcceptance.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionI
+
+individual (2!.google.fhir.stu3.proto.ReferenceB–áÎR
+individualH
+status (20.google.fhir.stu3.proto.GoalAcceptanceStatusCodeRstatusC
+priority (2'.google.fhir.stu3.proto.CodeableConceptRpriority:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/goal-acceptance"»
+ResourcePertainsToGoal.
+id (2.google.fhir.stu3.proto.StringRid~
+value_reference (2!.google.fhir.stu3.proto.ReferenceB2Úˇ¸¬,http://hl7.org/fhir/StructureDefinition/GoalRvalueReference:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/goal-pertainsToGoal"£
+GoalReasonRejected.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/goal-reasonRejected"â
+GoalRelationship.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionC
+type (2'.google.fhir.stu3.proto.CodeableConceptB–áÎRtypeA
+target (2!.google.fhir.stu3.proto.ReferenceB–áÎRtarget:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/goal-relationship"√
+DiagnosticReportAlleleDatabase.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ë¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óNhttp://hl7.org/fhir/StructureDefinition/hla-genotyping-results-allele-database"˚
+DiagnosticReportGlstring.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension-
+url (2.google.fhir.stu3.proto.UriRurl2
+text (2.google.fhir.stu3.proto.StringRtext:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/hla-genotyping-results-glstring"”
+DiagnosticReportHaploid.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension=
+locus (2'.google.fhir.stu3.proto.CodeableConceptRlocus;
+type (2'.google.fhir.stu3.proto.CodeableConceptRtype?
+method (2'.google.fhir.stu3.proto.CodeableConceptRmethod:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/hla-genotyping-results-haploid"≤
+DiagnosticReportMethod.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/hla-genotyping-results-method"é
+BundleHttpResponseHeader.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/http-response-header"°
+HumanNameAssemblyOrder.
+id (2.google.fhir.stu3.proto.StringRidQ
+
+value_code (22.google.fhir.stu3.proto.HumanNameAssemblyOrderCodeR	valueCode:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/humanname-assembly-order"ë
+HumanNameFathersFamily.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/humanname-fathers-family"ë
+HumanNameMothersFamily.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/humanname-mothers-family"Ñ
+HumanNameOwnName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/humanname-own-name"à
+HumanNameOwnPrefix.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/humanname-own-prefix"ç
+HumanNamePartnerName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/humanname-partner-name"ë
+HumanNamePartnerPrefix.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/humanname-partner-prefix"ê
+IdentifierValidDate.
+id (2.google.fhir.stu3.proto.StringRidH
+value_date_time (2 .google.fhir.stu3.proto.DateTimeRvalueDateTime:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/identifier-validDate"â
+ImplementationGuidePage.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/implementationguide-page"ã
+AddressADUse.
+id (2.google.fhir.stu3.proto.StringRidO
+
+value_code (20.google.fhir.stu3.proto.PostalAddressUseTypeCodeR	valueCode:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/iso21090-AD-use"û
+AddressADXPAdditionalLocator.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-additionalLocator"§
+AddressADXPBuildingNumberSuffix.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óJhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-buildingNumberSuffix"á
+AddressADXPCareOf.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-careOf"í
+AddressADXPCensusTract.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-censusTract"é
+AddressADXPDelimiter.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-delimiter"¢
+AddressADXPDeliveryAddressLine.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óIhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-deliveryAddressLine"¨
+#AddressADXPDeliveryInstallationArea.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ë¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óNhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-deliveryInstallationArea"∂
+(AddressADXPDeliveryInstallationQualifier.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óShttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-deliveryInstallationQualifier"¨
+#AddressADXPDeliveryInstallationType.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ë¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óNhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-deliveryInstallationType"î
+AddressADXPDeliveryMode.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-deliveryMode"®
+!AddressADXPDeliveryModeIdentifier.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:è¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óLhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-deliveryModeIdentifier"é
+AddressADXPDirection.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-direction"í
+AddressADXPHouseNumber.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber"†
+AddressADXPHouseNumberNumeric.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumberNumeric"ä
+AddressADXPPostBox.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-postBox"å
+AddressADXPPrecinct.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-precinct"û
+AddressADXPStreetAddressLine.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetAddressLine"ê
+AddressADXPStreetName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName"ò
+AddressADXPStreetNameBase.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetNameBase"ò
+AddressADXPStreetNameType.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetNameType"á
+AddressADXPUnitID.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-unitID"å
+AddressADXPUnitType.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-unitType"É
+CodingCOValue.
+id (2.google.fhir.stu3.proto.StringRidD
+value_decimal (2.google.fhir.stu3.proto.DecimalRvalueDecimal:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/iso21090-CO-value"ù
+HumanNameENQualifier.
+id (2.google.fhir.stu3.proto.StringRidR
+
+value_code (23.google.fhir.stu3.proto.EntityNamePartQualifierCodeR	valueCode:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier"•
+HumanNameENRepresentation.
+id (2.google.fhir.stu3.proto.StringRidP
+
+value_code (21.google.fhir.stu3.proto.NameRepresentationUseCodeR	valueCode:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/iso21090-EN-representation"Ü
+AnyNullFlavor.
+id (2.google.fhir.stu3.proto.StringRidE
+
+value_code (2&.google.fhir.stu3.proto.NullFlavorCodeR	valueCode:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/iso21090-nullFlavor"É
+AnyPreferred.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/iso21090-preferred"Ç
+StringSCCoding.
+id (2.google.fhir.stu3.proto.StringRidA
+value_coding (2.google.fhir.stu3.proto.CodingRvalueCoding:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/iso21090-SC-coding"É
+ContactPointTELAddress.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/iso21090-TEL-address"å
+QuantityUncertainty.
+id (2.google.fhir.stu3.proto.StringRidD
+value_decimal (2.google.fhir.stu3.proto.DecimalRvalueDecimal:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/iso21090-uncertainty"ß
+QuantityUncertaintyType.
+id (2.google.fhir.stu3.proto.StringRidV
+
+value_code (27.google.fhir.stu3.proto.ProbabilityDistributionTypeCodeR	valueCode:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/iso21090-uncertaintyType"£
+AnyVerification.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/iso21090-verification"˝
+LocationAlias.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:y¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó6http://hl7.org/fhir/StructureDefinition/location-alias"è
+BundleLocationDistance.
+id (2.google.fhir.stu3.proto.StringRidG
+value_distance (2 .google.fhir.stu3.proto.DistanceRvalueDistance:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/location-distance"ë
+DataElementMapSourcePublisher.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/mapSourcePublisher"Å
+BundleMatchGrade.
+id (2.google.fhir.stu3.proto.StringRidE
+
+value_code (2&.google.fhir.stu3.proto.MatchGradeCodeR	valueCode:v¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó3http://hl7.org/fhir/StructureDefinition/match-grade"Ö
+MaxDecimalPlaces.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/maxDecimalPlaces"Û
+MaxSize.
+id (2.google.fhir.stu3.proto.StringRidD
+value_decimal (2.google.fhir.stu3.proto.DecimalRvalueDecimal:r¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó/http://hl7.org/fhir/StructureDefinition/maxSize"à
+QuestionnaireMaxValue.
+id (2.google.fhir.stu3.proto.StringRidW
+value (23.google.fhir.stu3.proto.QuestionnaireMaxValue.ValueB¯·„…–áÎRvalue
+Value2
+date (2.google.fhir.stu3.proto.DateH Rdate?
+	date_time (2 .google.fhir.stu3.proto.DateTimeH RdateTime2
+time (2.google.fhir.stu3.proto.TimeH Rtime;
+instant (2.google.fhir.stu3.proto.InstantH Rinstant;
+decimal (2.google.fhir.stu3.proto.DecimalH Rdecimal;
+integer (2.google.fhir.stu3.proto.IntegerH RintegerB
+value:s¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó0http://hl7.org/fhir/StructureDefinition/maxValue"®
+MedicationUsualRoute.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/medication-usualRoute"§
+ MedicationDispenseValidityPeriod.
+id (2.google.fhir.stu3.proto.StringRidA
+value_period (2.google.fhir.stu3.proto.PeriodRvaluePeriod:å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óIhttp://hl7.org/fhir/StructureDefinition/medicationdispense-validityPeriod"‰
+MedicationStatementPrescriber.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerRvalueReference:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/medicationstatement-Prescriber"¿
+)MessageHeaderMessageheaderResponseRequest.
+id (2.google.fhir.stu3.proto.StringRidW
+
+value_code (28.google.fhir.stu3.proto.MessageHeaderResponseRequestCodeR	valueCode:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/messageheader-response-request"Ù
+MimeType.
+id (2.google.fhir.stu3.proto.StringRidC
+
+value_code (2$.google.fhir.stu3.proto.MimeTypeCodeR	valueCode:s¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó0http://hl7.org/fhir/StructureDefinition/mimeType"˜
+	MinLength.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:t¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó1http://hl7.org/fhir/StructureDefinition/minLength"à
+QuestionnaireMinValue.
+id (2.google.fhir.stu3.proto.StringRidW
+value (23.google.fhir.stu3.proto.QuestionnaireMinValue.ValueB¯·„…–áÎRvalue
+Value2
+date (2.google.fhir.stu3.proto.DateH Rdate?
+	date_time (2 .google.fhir.stu3.proto.DateTimeH RdateTime2
+time (2.google.fhir.stu3.proto.TimeH Rtime;
+instant (2.google.fhir.stu3.proto.InstantH Rinstant;
+decimal (2.google.fhir.stu3.proto.DecimalH Rdecimal;
+integer (2.google.fhir.stu3.proto.IntegerH RintegerB
+value:s¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó0http://hl7.org/fhir/StructureDefinition/minValue"Æ
+ObservationBodyPosition.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/observation-bodyPosition"ü
+ObservationDelta.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/observation-delta"Ö
+ObservationEventTiming.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension;
+code (2'.google.fhir.stu3.proto.CodeableConceptRcode8
+offset (2 .google.fhir.stu3.proto.QuantityRoffset:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/observation-eventTiming"Ø
+ObservationFocalSubject.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/observation-focal-subject"≤
+ObservationAlleleName.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/observation-geneticsAlleleName"•
+ObservationAllelicFrequency.
+id (2.google.fhir.stu3.proto.StringRidD
+value_decimal (2.google.fhir.stu3.proto.DecimalRvalueDecimal:è¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óLhttp://hl7.org/fhir/StructureDefinition/observation-geneticsAllelicFrequency"∂
+ObservationAllelicState.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/observation-geneticsAllelicState"ƒ
+ObservationAminoAcidChangeName.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:í¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óOhttp://hl7.org/fhir/StructureDefinition/observation-geneticsAminoAcidChangeName"ƒ
+ObservationAminoAcidChangeType.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:í¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óOhttp://hl7.org/fhir/StructureDefinition/observation-geneticsAminoAcidChangeType"º
+ObservationCopyNumberEvent.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:é¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óKhttp://hl7.org/fhir/StructureDefinition/observation-geneticsCopyNumberEvent"ú
+ObservationDNARegionName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óIhttp://hl7.org/fhir/StructureDefinition/observation-geneticsDNARegionName" 
+!ObservationDNASequenceVariantName.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ï¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óRhttp://hl7.org/fhir/StructureDefinition/observation-geneticsDNASequenceVariantName" 
+!ObservationDNASequenceVariantType.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ï¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óRhttp://hl7.org/fhir/StructureDefinition/observation-geneticsDNASequenceVariantType"∂
+ObservationDNAVariantId.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/observation-geneticsDNAVariantId"¶
+ObservationGene.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/observation-geneticsGene"¬
+ObservationGenomicSourceClass.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ë¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óNhttp://hl7.org/fhir/StructureDefinition/observation-geneticsGenomicSourceClass"„
+ObservationInterpretation.
+id (2.google.fhir.stu3.proto.StringRidÖ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB9Úˇ¸¬3http://hl7.org/fhir/StructureDefinition/ObservationRvalueReference:ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óJhttp://hl7.org/fhir/StructureDefinition/observation-geneticsInterpretation"â
+ObservationPhaseSet.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/observation-geneticsPhaseSet"‘
+ObservationSequence.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/SequenceRvalueReference:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/observation-geneticsSequence"í
+ObservationTimeOffset.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/observation-time-offset"Î
+ AllergyIntoleranceAdministration.
+id (2.google.fhir.stu3.proto.StringRidí
+value_reference (2!.google.fhir.stu3.proto.ReferenceBFÚˇ¸¬@http://hl7.org/fhir/StructureDefinition/MedicationAdministrationRvalueReference:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/openEHR-administration"Œ
+AllergyIntoleranceCareplan.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/CarePlanRvalueReference:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/openEHR-careplan"õ
+AllergyIntoleranceExposureDate.
+id (2.google.fhir.stu3.proto.StringRidH
+value_date_time (2 .google.fhir.stu3.proto.DateTimeRvalueDateTime:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/openEHR-exposureDate"£
+%AllergyIntoleranceExposureDescription.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/openEHR-exposureDescription"£
+"AllergyIntoleranceExposureDuration.
+id (2.google.fhir.stu3.proto.StringRidG
+value_duration (2 .google.fhir.stu3.proto.DurationRvalueDuration:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/openEHR-exposureDuration"®
+AllergyIntoleranceLocation.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/openEHR-location"ê
+AllergyIntoleranceManagement.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/openEHR-management"Î
+AllergyIntoleranceTest.
+id (2.google.fhir.stu3.proto.StringRidX
+value (24.google.fhir.stu3.proto.AllergyIntoleranceTest.ValueB¯·„…–áÎRvalueÕ
+Value∫
+	reference (2!.google.fhir.stu3.proto.ReferenceBwÚˇ¸¬3http://hl7.org/fhir/StructureDefinition/ObservationÚˇ¸¬8http://hl7.org/fhir/StructureDefinition/DiagnosticReportH R	referenceB
+value:w¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó4http://hl7.org/fhir/StructureDefinition/openEHR-test"ç
+OperationOutcomeAuthority.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/operationoutcome-authority"Â
+OperationOutcomeDetectedIssue.
+id (2.google.fhir.stu3.proto.StringRidá
+value_reference (2!.google.fhir.stu3.proto.ReferenceB;Úˇ¸¬5http://hl7.org/fhir/StructureDefinition/DetectedIssueRvalueReference:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/operationoutcome-detectedIssue"õ
+OperationOutcomeIssueSource.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/operationoutcome-issue-source"Ö
+OrganizationAlias.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/organization-alias"á
+OrganizationPeriod.
+id (2.google.fhir.stu3.proto.StringRidA
+value_period (2.google.fhir.stu3.proto.PeriodRvaluePeriod:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/organization-period"ü
+OrganizationPreferredContact.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/organization-preferredContact"•
+PatientAdoptionInfo.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/patient-adoptionInfo"ä
+PatientBirthTime.
+id (2.google.fhir.stu3.proto.StringRidH
+value_date_time (2 .google.fhir.stu3.proto.DateTimeRvalueDateTime:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/patient-birthTime"ë
+PatientCadavericDonor.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/patient-cadavericDonor"˙
+PatientCitizenship.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension;
+code (2'.google.fhir.stu3.proto.CodeableConceptRcode6
+period (2.google.fhir.stu3.proto.PeriodRperiod:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/patient-citizenship"»
+PatientClinicalTrial.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionC
+n_c_t (2.google.fhir.stu3.proto.StringB–áÎ™¸èìNCTRnCT6
+period (2.google.fhir.stu3.proto.PeriodRperiod?
+reason (2'.google.fhir.stu3.proto.CodeableConceptRreason:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/patient-clinicalTrial"â
+PatientCongregation.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/patient-congregation"°
+PatientDisability.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/patient-disability"°
+PatientImportance.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/patient-importance"õ
+PatientInterpreterRequired.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/patient-interpreterRequired"î
+PatientMothersMaidenName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/patient-mothersMaidenName"˙
+PatientNationality.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension;
+code (2'.google.fhir.stu3.proto.CodeableConceptRcode6
+period (2.google.fhir.stu3.proto.PeriodRperiod:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/patient-nationality"ù
+PatientReligion.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/patient-religion"ù
+DoseType.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/pharmacy-core-doseType"ã
+
+InfuseOver.
+id (2.google.fhir.stu3.proto.StringRidG
+value_duration (2 .google.fhir.stu3.proto.DurationRvalueDuration:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/pharmacy-core-infuseOver"å
+MaxDeliveryRate.
+id (2.google.fhir.stu3.proto.StringRid>
+value_ratio (2.google.fhir.stu3.proto.RatioR
+valueRatio:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/pharmacy-core-maxDeliveryRate"ô
+MaxDeliveryVolume.
+id (2.google.fhir.stu3.proto.StringRidG
+value_quantity (2 .google.fhir.stu3.proto.QuantityRvalueQuantity:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/pharmacy-core-maxDeliveryVolume"é
+MinDosePerPeriod.
+id (2.google.fhir.stu3.proto.StringRid>
+value_ratio (2.google.fhir.stu3.proto.RatioR
+valueRatio:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/pharmacy-core-minDosePerPeriod"˛
+RateGoal.
+id (2.google.fhir.stu3.proto.StringRid>
+value_ratio (2.google.fhir.stu3.proto.RatioR
+valueRatio:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/pharmacy-core-rateGoal"à
+RateIncrement.
+id (2.google.fhir.stu3.proto.StringRid>
+value_ratio (2.google.fhir.stu3.proto.RatioR
+valueRatio:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/pharmacy-core-rateIncrement"°
+RateIncrementInterval.
+id (2.google.fhir.stu3.proto.StringRidG
+value_duration (2 .google.fhir.stu3.proto.DurationRvalueDuration:é¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óKhttp://hl7.org/fhir/StructureDefinition/pharmacy-core-rateIncrementInterval"î
+RefillsRemaining.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/pharmacy-core-refillsRemaining"¶
+AnimalSpecies.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/practitioner-animalSpecies"¥
+PractitionerClassification.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/practitioner-classification"õ
+PractitionerRolePrimaryInd.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/practitionerrole-primaryInd"ÿ
+ProcedureApproachBodySite.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/BodySiteRvalueReference:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/procedure-approachBodySite"¢
+ProcedureCausedBy.
+id (2.google.fhir.stu3.proto.StringRidS
+value (2/.google.fhir.stu3.proto.ProcedureCausedBy.ValueB¯·„…–áÎRvalueà
+Valueı
+	reference (2!.google.fhir.stu3.proto.ReferenceB±Úˇ¸¬:http://hl7.org/fhir/StructureDefinition/AllergyIntoleranceÚˇ¸¬8http://hl7.org/fhir/StructureDefinition/DiagnosticReportÚˇ¸¬;http://hl7.org/fhir/StructureDefinition/FamilyMemberHistoryÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/ImagingStudyÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/ImmunizationÚˇ¸¬Bhttp://hl7.org/fhir/StructureDefinition/ImmunizationRecommendationÚˇ¸¬@http://hl7.org/fhir/StructureDefinition/MedicationAdministrationÚˇ¸¬9http://hl7.org/fhir/StructureDefinition/MedicationRequestÚˇ¸¬;http://hl7.org/fhir/StructureDefinition/MedicationStatementÚˇ¸¬3http://hl7.org/fhir/StructureDefinition/ObservationÚˇ¸¬1http://hl7.org/fhir/StructureDefinition/ProcedureH R	referenceB
+value:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/procedure-causedBy"ù
+ProcedureIncisionDateTime.
+id (2.google.fhir.stu3.proto.StringRidH
+value_date_time (2 .google.fhir.stu3.proto.DateTimeRvalueDateTime:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/procedure-incisionDateTime"ù
+ProcedureMethod.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/procedure-method"Æ
+ProcedureProgressStatus.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/procedure-progressStatus"Ö
+ProcedureSchedule.
+id (2.google.fhir.stu3.proto.StringRidA
+value_timing (2.google.fhir.stu3.proto.TimingRvalueTiming:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/procedure-schedule"‘
+ProcedureTargetBodySite.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/BodySiteRvalueReference:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/procedure-targetBodySite"Ê
+ ProcedureRequestApproachBodySite.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/BodySiteRvalueReference:å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óIhttp://hl7.org/fhir/StructureDefinition/procedurerequest-approachBodySite"‚
+ProcedureRequestAuthorizedBy.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerRvalueReference:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/procedurerequest-authorizedBy"¢
+DiagnosticReportItem.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionC
+code (2'.google.fhir.stu3.proto.CodeableConceptB–áÎRcodeT
+genetics_observation (2!.google.fhir.stu3.proto.ReferenceRgeneticsObservation=
+specimen (2!.google.fhir.stu3.proto.ReferenceRspecimen4
+status (2.google.fhir.stu3.proto.CodeRstatus:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/procedurerequest-geneticsItem"∏
+ProcedureRequestPrecondition.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/procedurerequest-precondition"Û
+$ProcedureRequestQuestionnaireRequest.
+id (2.google.fhir.stu3.proto.StringRidá
+value_reference (2!.google.fhir.stu3.proto.ReferenceB;Úˇ¸¬5http://hl7.org/fhir/StructureDefinition/QuestionnaireRvalueReference:ê¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óMhttp://hl7.org/fhir/StructureDefinition/procedurerequest-questionnaireRequest"∫
+ProcedureRequestReasonRefused.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/procedurerequest-reasonRefused"º
+ProcedureRequestReasonRejected.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/procedurerequest-reasonRejected"‚
+ProcedureRequestTargetBodySite.
+id (2.google.fhir.stu3.proto.StringRidÇ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB6Úˇ¸¬0http://hl7.org/fhir/StructureDefinition/BodySiteRvalueReference:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/procedurerequest-targetBodySite"Á
+QuestionnaireAllowedProfile.
+id (2.google.fhir.stu3.proto.StringRidç
+value_reference (2!.google.fhir.stu3.proto.ReferenceBAÚˇ¸¬;http://hl7.org/fhir/StructureDefinition/StructureDefinitionRvalueReference:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/questionnaire-allowedProfile"¢
+QuestionnaireAllowedResource.
+id (2.google.fhir.stu3.proto.StringRidG
+
+value_code (2(.google.fhir.stu3.proto.ResourceTypeCodeR	valueCode:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/questionnaire-allowedResource"ê
+QuestionnaireBaseType.
+id (2.google.fhir.stu3.proto.StringRidC
+
+value_code (2$.google.fhir.stu3.proto.DataTypeCodeR	valueCode:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/questionnaire-baseType"Ø
+QuestionnaireChoiceOrientation.
+id (2.google.fhir.stu3.proto.StringRidP
+
+value_code (21.google.fhir.stu3.proto.ChoiceListOrientationCodeR	valueCode:ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óGhttp://hl7.org/fhir/StructureDefinition/questionnaire-choiceOrientation"À
+QuestionnaireDeMap.
+id (2.google.fhir.stu3.proto.StringRidÑ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB8Úˇ¸¬2http://hl7.org/fhir/StructureDefinition/ConceptMapRvalueReference:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/questionnaire-deMap"∏
+QuestionnaireDisplayCategory.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory"é
+QuestionnaireFhirType.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/questionnaire-fhirType"å
+QuestionnaireHidden.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/questionnaire-hidden"∞
+QuestionnaireItemControl.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/questionnaire-itemControl"õ
+ QuestionnaireLookupQuestionnaire.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óIhttp://hl7.org/fhir/StructureDefinition/questionnaire-lookupQuestionnaire"ì
+QuestionnaireMaxOccurs.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/questionnaire-maxOccurs"ì
+QuestionnaireMinOccurs.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/questionnaire-minOccurs"ü
+QuestionnaireOptionExclusive.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/questionnaire-optionExclusive"ñ
+QuestionnaireOptionPrefix.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/questionnaire-optionPrefix"ô
+QuestionnaireOrdinalValue.
+id (2.google.fhir.stu3.proto.StringRidD
+value_decimal (2.google.fhir.stu3.proto.DecimalRvalueDecimal:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/questionnaire-ordinalValue"ú
+QuestionnaireReferenceFilter.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/questionnaire-referenceFilter"Ë
+QuestionnaireSourceStructureMap.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/StructureMapRvalueReference:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/questionnaire-sourceStructureMap"∏
+$QuestionnaireStudyprotocolIdentifier.
+id (2.google.fhir.stu3.proto.StringRidM
+value_identifier (2".google.fhir.stu3.proto.IdentifierRvalueIdentifier:ê¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óMhttp://hl7.org/fhir/StructureDefinition/questionnaire-studyprotocolIdentifier"ã
+QuestionnaireSupportLink.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/questionnaire-supportLink"Ë
+QuestionnaireTargetStructureMap.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/StructureMapRvalueReference:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/questionnaire-targetStructureMap"Ö
+QuestionnaireUnit.
+id (2.google.fhir.stu3.proto.StringRidA
+value_coding (2.google.fhir.stu3.proto.CodingRvalueCoding:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/questionnaire-unit"§
+QuestionnaireUsageMode.
+id (2.google.fhir.stu3.proto.StringRidU
+
+value_code (26.google.fhir.stu3.proto.QuestionnaireItemUsageModeCodeR	valueCode:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/questionnaire-usageMode"Ó
+QuestionnaireResponseAuthor.
+id (2.google.fhir.stu3.proto.StringRid]
+value (29.google.fhir.stu3.proto.QuestionnaireResponseAuthor.ValueB¯·„…–áÎRvalueµ
+Value¢
+	reference (2!.google.fhir.stu3.proto.ReferenceBﬁÚˇ¸¬/http://hl7.org/fhir/StructureDefinition/PatientÚˇ¸¬5http://hl7.org/fhir/StructureDefinition/RelatedPersonÚˇ¸¬.http://hl7.org/fhir/StructureDefinition/DeviceÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerH R	referenceB
+value:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/questionnaireresponse-author"¢
+QuestionnaireResponseNote.
+id (2.google.fhir.stu3.proto.StringRidM
+value_annotation (2".google.fhir.stu3.proto.AnnotationRvalueAnnotation:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/questionnaireresponse-note"∂
+QuestionnaireResponseReason.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/questionnaireresponse-reason"‰
+QuestionnaireResponseReviewer.
+id (2.google.fhir.stu3.proto.StringRidÜ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB:Úˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerRvalueReference:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/questionnaireresponse-reviewer"∏
+ReferralRequestReasonRefused.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/referralrequest-reasonRefused"Ï
+Regex.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:p¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó-http://hl7.org/fhir/StructureDefinition/regex"˝
+RenderedValue.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:y¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó6http://hl7.org/fhir/StructureDefinition/rendered-value"à
+StringMarkdown.
+id (2.google.fhir.stu3.proto.StringRidG
+value_markdown (2 .google.fhir.stu3.proto.MarkdownRvalueMarkdown:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/rendering-markdown"ˆ
+Style.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/rendering-style"å
+StyleSensitive.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/rendering-styleSensitive"¸
+StringXhtml.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/rendering-xhtml"˛
+ApprovalDate.
+id (2.google.fhir.stu3.proto.StringRid;
+
+value_date (2.google.fhir.stu3.proto.DateR	valueDate:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/resource-approvalDate"ä
+EffectivePeriod.
+id (2.google.fhir.stu3.proto.StringRidA
+value_period (2.google.fhir.stu3.proto.PeriodRvaluePeriod:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/resource-effectivePeriod"Ç
+LastReviewDate.
+id (2.google.fhir.stu3.proto.StringRid;
+
+value_date (2.google.fhir.stu3.proto.DateR	valueDate:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/resource-lastReviewDate"¥
+SpecimenCollectionPriority.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/specimen-collectionPriority"å
+SpecimenIsDryWeight.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó<http://hl7.org/fhir/StructureDefinition/specimen-isDryWeight"¥
+SpecimenProcessingTime.
+id (2.google.fhir.stu3.proto.StringRidX
+value (24.google.fhir.stu3.proto.SpecimenProcessingTime.ValueB¯·„…–áÎRvalueä
+Value8
+period (2.google.fhir.stu3.proto.PeriodH Rperiod>
+duration (2 .google.fhir.stu3.proto.DurationH RdurationB
+value:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/specimen-processingTime"ì
+SpecimenSequenceNumber.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/specimen-sequenceNumber"Æ
+SpecimenSpecialHandling.
+id (2.google.fhir.stu3.proto.StringRid]
+value_codeable_concept (2'.google.fhir.stu3.proto.CodeableConceptRvalueCodeableConcept:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/specimen-specialHandling"ë
+StructureDefinitionAncestor.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/structuredefinition-ancestor"™
+StructureDefinitionAnnotation.
+id (2.google.fhir.stu3.proto.StringRidM
+value_annotation (2".google.fhir.stu3.proto.AnnotationRvalueAnnotation:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/structuredefinition-annotation"ê
+BallotStatus.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óIhttp://hl7.org/fhir/StructureDefinition/structuredefinition-ballot-status"ö
+StructureDefinitionCategory.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/structuredefinition-category"ü
+ElementDefinitionDisplayHint.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ã¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óHhttp://hl7.org/fhir/StructureDefinition/structuredefinition-display-hint"™
+!ElementDefinitionExplicitTypeName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:ë¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óNhttp://hl7.org/fhir/StructureDefinition/structuredefinition-explicit-type-name"©
+ StructureDefinitionFmmNoWarnings.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:é¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óKhttp://hl7.org/fhir/StructureDefinition/structuredefinition-fmm-no-warnings"Ä
+Fmm.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/structuredefinition-fmm"ô
+ElementDefinitionJsonType.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:à¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óEhttp://hl7.org/fhir/StructureDefinition/structuredefinition-json-type"ó
+ElementDefinitionRdfType.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/structuredefinition-rdf-type"í
+ElementDefinitionRegex.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ñ¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óAhttp://hl7.org/fhir/StructureDefinition/structuredefinition-regex"û
+StructureDefinitionSummary.
+id (2.google.fhir.stu3.proto.StringRidG
+value_markdown (2 .google.fhir.stu3.proto.MarkdownRvalueMarkdown:Ü¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óChttp://hl7.org/fhir/StructureDefinition/structuredefinition-summary"ù
+StructureDefinitionTableName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:â¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óFhttp://hl7.org/fhir/StructureDefinition/structuredefinition-table-name"≥
+!StructureDefinitionTemplateStatus.
+id (2.google.fhir.stu3.proto.StringRidM
+
+value_code (2..google.fhir.stu3.proto.TemplateStatusCodeCodeR	valueCode:é¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óKhttp://hl7.org/fhir/StructureDefinition/structuredefinition-template-status"Å
+Wg.
+id (2.google.fhir.stu3.proto.StringRidG
+
+value_code (2(.google.fhir.stu3.proto.HL7WorkgroupCodeR	valueCode:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/structuredefinition-wg"ó
+ElementDefinitionXmlType.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:á¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óDhttp://hl7.org/fhir/StructureDefinition/structuredefinition-xml-type"â
+TaskCandidateList.
+id (2.google.fhir.stu3.proto.StringRidS
+value (2/.google.fhir.stu3.proto.TaskCandidateList.ValueB¯·„…–áÎRvalueÔ
+Value‹
+	reference (2!.google.fhir.stu3.proto.ReferenceBòÚˇ¸¬.http://hl7.org/fhir/StructureDefinition/DeviceÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/OrganizationÚˇ¸¬/http://hl7.org/fhir/StructureDefinition/PatientÚˇ¸¬4http://hl7.org/fhir/StructureDefinition/PractitionerÚˇ¸¬5http://hl7.org/fhir/StructureDefinition/RelatedPersonH R	referenceB
+value:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/task-candidateList"∏
+TaskReplaces.
+id (2.google.fhir.stu3.proto.StringRid~
+value_reference (2!.google.fhir.stu3.proto.ReferenceB2Úˇ¸¬,http://hl7.org/fhir/StructureDefinition/TaskRvalueReference:x¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó5http://hl7.org/fhir/StructureDefinition/task-replaces"∏
+DaysOfCycle.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension9
+day (2.google.fhir.stu3.proto.IntegerB–áÎRday:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/timing-daysOfCycle"¸
+TimingExact.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:w¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó4http://hl7.org/fhir/StructureDefinition/timing-exact"§
+Translation.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension@
+lang (2$.google.fhir.stu3.proto.LanguageCodeB–áÎRlangS
+content (2+.google.fhir.stu3.proto.Translation.ContentB¯·„…–áÎRcontentî
+Content>
+string_value (2.google.fhir.stu3.proto.StringH Rstring>
+markdown (2 .google.fhir.stu3.proto.MarkdownH RmarkdownB	
+content:v¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó3http://hl7.org/fhir/StructureDefinition/translation"Ö
+UsageContextGroup.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/usagecontext-group"ˇ
+ValueSetAuthor.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/valueset-author"ë
+ValueSetCaseSensitive.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/valueset-caseSensitive"à
+ValueSetComment.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension@
+content (2.google.fhir.stu3.proto.StringB–áÎRcontentE
+	timestamp (2.google.fhir.stu3.proto.InstantB–áÎR	timestamp:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/valueset-comment"É
+ValueSetComments.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/valueset-comments"è
+ValueSetConceptOrder.
+id (2.google.fhir.stu3.proto.StringRidD
+value_integer (2.google.fhir.stu3.proto.IntegerRvalueInteger:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/valueset-conceptOrder"á
+ValueSetDefinition.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/valueset-definition"à
+ValueSetEffectiveDate.
+id (2.google.fhir.stu3.proto.StringRid;
+
+value_date (2.google.fhir.stu3.proto.DateR	valueDate:Å¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó>http://hl7.org/fhir/StructureDefinition/valueset-effectiveDate"â
+ValueSetExpansionSource.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/valueset-expansionSource"ä
+ValueSetExpirationDate.
+id (2.google.fhir.stu3.proto.StringRid;
+
+value_date (2.google.fhir.stu3.proto.DateR	valueDate:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/valueset-expirationDate"Ω
+ValueSetHistory.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension2
+name (2.google.fhir.stu3.proto.StringRnameL
+revision (20.google.fhir.stu3.proto.ValueSetHistory.RevisionRrevisionπ
+Revision.
+id (2.google.fhir.stu3.proto.StringRid<
+date (2 .google.fhir.stu3.proto.DateTimeB–áÎRdateI
+id_slice (2.google.fhir.stu3.proto.StringB–áÎ™¸èìidRidSlice>
+author (2.google.fhir.stu3.proto.StringB–áÎRauthor4
+notes (2.google.fhir.stu3.proto.StringRnotes:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/valueset-history"Å
+ValueSetKeyWord.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/valueset-keyWord"˝
+ValueSetLabel.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:y¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó6http://hl7.org/fhir/StructureDefinition/valueset-label"Ω
+ValueSetMap.
+id (2.google.fhir.stu3.proto.StringRidÑ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB8Úˇ¸¬2http://hl7.org/fhir/StructureDefinition/ConceptMapRvalueReference:w¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó4http://hl7.org/fhir/StructureDefinition/valueset-map"è
+ValueSetOrdinalValue.
+id (2.google.fhir.stu3.proto.StringRidD
+value_decimal (2.google.fhir.stu3.proto.DecimalRvalueDecimal:Ä¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó=http://hl7.org/fhir/StructureDefinition/valueset-ordinalValue"˛
+ValueSetOtherName.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension:
+name (2.google.fhir.stu3.proto.StringB–áÎRname=
+	preferred (2.google.fhir.stu3.proto.BooleanR	preferred:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/valueset-otherName"¸
+ValueSetReference.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/valueset-reference"â
+ValueSetSourceReference.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:É¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó@http://hl7.org/fhir/StructureDefinition/valueset-sourceReference"√
+ValueSetSystem.
+id (2.google.fhir.stu3.proto.StringRidÑ
+value_reference (2!.google.fhir.stu3.proto.ReferenceB8Úˇ¸¬2http://hl7.org/fhir/StructureDefinition/CodeSystemRvalueReference:z¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó7http://hl7.org/fhir/StructureDefinition/valueset-system"á
+ValueSetSystemName.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:~¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó;http://hl7.org/fhir/StructureDefinition/valueset-systemName"¸
+ValueSetSystemRef.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/valueset-systemRef"à
+ValueSetToocostly.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:}¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó:http://hl7.org/fhir/StructureDefinition/valueset-toocostly"å
+ValueSetTrustedExpansion.
+id (2.google.fhir.stu3.proto.StringRid8
+	value_uri (2.google.fhir.stu3.proto.UriRvalueUri:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttp://hl7.org/fhir/StructureDefinition/valueset-trusted-expansion"Ü
+ValueSetUnclosed.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9http://hl7.org/fhir/StructureDefinition/valueset-unclosed"Ò
+ValueSetUsage.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension:
+user (2.google.fhir.stu3.proto.StringB–áÎRuser8
+use (2.google.fhir.stu3.proto.StringB–áÎRuse:y¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó6http://hl7.org/fhir/StructureDefinition/valueset-usage"á
+ValueSetWarning.
+id (2.google.fhir.stu3.proto.StringRidG
+value_markdown (2 .google.fhir.stu3.proto.MarkdownRvalueMarkdown:{¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó8http://hl7.org/fhir/StructureDefinition/valueset-warning"ê
+ValueSetWorkflowStatus.
+id (2.google.fhir.stu3.proto.StringRidA
+value_string (2.google.fhir.stu3.proto.StringRvalueString:Ç¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó?http://hl7.org/fhir/StructureDefinition/valueset-workflowStatusB
+com.google.fhir.stu3.protoPbproto3
+∑
+"proto/stu3/google_extensions.protogoogle.fhir.stu3.googleproto/stu3/annotations.protoproto/stu3/datatypes.proto"°
+Base64BinarySeparatorStride.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionD
+	separator (2.google.fhir.stu3.proto.StringB–áÎR	separatorC
+stride (2#.google.fhir.stu3.proto.PositiveIntB–áÎRstride:Ö¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰óBhttps://g.co/fhir/StructureDefinition/base64Binary-separatorStride"´
+
+EventLabel.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extensionC
+patient (2!.google.fhir.stu3.proto.ReferenceB–áÎRpatient:
+type (2.google.fhir.stu3.proto.CodingB–áÎRtype?
+
+event_time (2 .google.fhir.stu3.proto.DateTimeR	eventTime9
+source (2!.google.fhir.stu3.proto.ReferenceRsource?
+label (2).google.fhir.stu3.google.EventLabel.LabelRlabel¯
+Label.
+id (2.google.fhir.stu3.proto.StringRidE
+
+class_name (2.google.fhir.stu3.proto.CodingB–áÎR	classNamec
+class_value (24.google.fhir.stu3.google.EventLabel.Label.ClassValueB¯·„…–áÎR
+classValueí
+
+ClassValue;
+boolean (2.google.fhir.stu3.proto.BooleanH Rboolean;
+decimal (2.google.fhir.stu3.proto.DecimalH Rdecimal;
+integer (2.google.fhir.stu3.proto.IntegerH Rinteger>
+string_value (2.google.fhir.stu3.proto.StringH RstringB
+class_value:s¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó0https://g.co/fhir/StructureDefinition/eventLabel"∂
+EventTrigger.
+id (2.google.fhir.stu3.proto.StringRid?
+	extension (2!.google.fhir.stu3.proto.ExtensionR	extension:
+type (2.google.fhir.stu3.proto.CodingB–áÎRtypeG
+
+event_time (2 .google.fhir.stu3.proto.DateTimeB–áÎR	eventTime9
+source (2!.google.fhir.stu3.proto.ReferenceRsource:u¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó2https://g.co/fhir/StructureDefinition/eventTrigger"â
+PrimitiveHasNoValue.
+id (2.google.fhir.stu3.proto.StringRidD
+value_boolean (2.google.fhir.stu3.proto.BooleanRvalueBoolean:|¿ü„∂öµéì1http://hl7.org/fhir/StructureDefinition/Extension≤˛‰ó9https://g.co/fhir/StructureDefinition/primitiveHasNoValueB
+com.google.fhir.stu3.googlePbproto3

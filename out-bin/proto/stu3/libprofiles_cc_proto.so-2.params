@@ -1,0 +1,3 @@
+bazel-out/k8-fastbuild/bin/proto/stu3/_objs/profiles_cc_proto/profiles.pb.pic.o
+-lstdc++
+-lm

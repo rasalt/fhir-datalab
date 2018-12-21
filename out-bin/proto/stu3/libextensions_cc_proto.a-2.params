@@ -1,0 +1,4 @@
+rcsD
+bazel-out/k8-fastbuild/bin/proto/stu3/libextensions_cc_proto.a
+bazel-out/k8-fastbuild/bin/proto/stu3/_objs/extensions_cc_proto/extensions.pb.pic.o
+bazel-out/k8-fastbuild/bin/proto/stu3/_objs/extensions_cc_proto/google_extensions.pb.pic.o
